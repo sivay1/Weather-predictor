@@ -2,7 +2,7 @@
 # Overview
 Weather Predictor is a simple Django-based web application that allows users to retrieve weather reports for a specified city. The application utilizes the OpenWeatherMap API to fetch real-time weather data.
 
-# Features
+## Features
 City Search: Users can search for weather information for a specific city.
 Display Results: Display weather details, including country code, coordinates, temperature, pressure, and humidity.
 Responsive Design: The application is designed to work on various screen sizes.
